@@ -1,4 +1,4 @@
-# Unlocking Financial Insights in Banking Data  
+# Financial Insights in Banking Data  
 **Power BI Analytics Project**
 
 ## Project Overview
